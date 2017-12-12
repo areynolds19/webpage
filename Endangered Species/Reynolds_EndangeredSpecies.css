@@ -1,0 +1,49 @@
+/*
+* Andréa Reynolds
+* 11 December 2017
+* 06 Project - Endangered Species: The South Asian River Dolphin
+*/
+
+
+/* The universal selector */
+* { font-family: Helvetica, sans-serif; padding: 0; margin: 0; }
+
+
+/* Header attributes */
+header { text-align: center; color: #279380; border-width: 0 0 4px 0; 
+border-color: #279380; border-style: solid; padding: 20px 10px 10px; margin: 10px; }
+
+
+/* Body attributes */
+main { margin: 10px; padding: 0 10px 20px 10px; border-width: 0 0 4px 0; border-color: #279380;
+border-style: solid; }
+
+h2 { color: #7C7480; padding: 10px 0 }
+
+p { font-size: 14px; padding: 5px 0; }
+
+/* Image attributes */
+img { border: thin solid #279380 }
+
+.middle { width: 250px; margin: 10px 20px 10px 40px; padding: 5px; }
+
+.right { float: right; height: 125px; width; 125px; margin: 10px; padding: 5px; }
+
+.left { float: left; height: 125px; width; 125px; margin: 10px; padding: 5px; }
+
+/* Footer attributes */
+footer { margin: 10px; padding: 10px; }
+
+.footer { font-size: 12px; color: #279380; }
+
+ul { margin: 10px; padding: 10px; font-size: 12px; color: #279380; }
+
+.right { text-align: right; font-size: 11px; font-style: italic; }
+
+
+/* Links found in footer */
+a:link { color: #556E56; }
+
+a:visited { color: #7C7480; }
+
+a:hover, a:focus { color: #279380; }
