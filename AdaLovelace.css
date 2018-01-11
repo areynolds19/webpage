@@ -1,0 +1,101 @@
+/* Andréa Reynolds */
+/* Final Project - Ada Lovelace */
+/* 11 January 2018 */
+
+/* Universal selector */
+* { 
+    margin: 0;
+    padding: 0; }
+
+/* Headings */
+h1 {
+	text-align: center;
+	margin: 10px;
+	color: #c07754; }
+	
+h2 {
+	text-align: center;
+	margin: 0px 0px 5px 0px;
+	text-decoration: underline;
+	color: #a85042; }
+
+h3 {
+	text-align: center;
+	color: #33221a; }
+
+h4 {
+	text-align: center;
+	margin: 0px 10px 10px;
+	color: #33221a; }
+	
+/* Pictures */	
+#bio {
+	float: left; 
+	width: 110px;
+	margin: 5px 10px;
+	border: 2px solid #a85042; }
+	
+#bio2 {
+	float: right;
+	width: 110px;
+	margin: 10px;
+	border: 2px solid #a85042; }
+
+#accomplishments {
+	width: 95px;
+	margin: 10px 60px; 10px 20px;
+	border: 2px solid #a85042; }
+
+/* Format for main content */
+body {
+    width: 1100px;
+    background-color: white;
+    margin: 15px auto; }
+
+p {
+	margin: 10px; }
+    
+#sidebarA {
+    width: 20%;
+    height: 460px;     
+    float: left;
+    border: 2px solid #a85042; }
+
+main {
+    width: 58%; 
+    height: 460px;
+    float: left;
+    margin: 0px;
+    border-top: 2px solid #a85042;
+    border-bottom: 2px solid #a85042; }
+    
+blockquote {
+	text-align: center; 
+	font-size: 1.3em;
+	margin-bottom: 1px; 
+	color: #33221a; }
+
+#sidebarB {
+    width: 20%;
+    height: 460px;     
+    float: left;
+    border: 2px solid #a85042; }
+
+/* Links */  
+:link {
+	color: #aaaaaa; }
+
+:active {
+	color: #a85042 }
+
+/* Commands for content in the footer */
+footer {
+    clear: both;  }
+
+#sources {
+	float: left; }
+
+#disclaimer {
+	float: right;
+	color: #a85042;
+	font-style: italic }
